@@ -1,0 +1,4 @@
+lxml==3.2.5
+pymongo==2.6.3
+requests==2.2.0
+xmltodict==0.8.3
